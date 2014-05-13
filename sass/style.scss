@@ -1,0 +1,17 @@
+@import "compass/reset";
+@import "variables";
+@import "compass/layout/sticky-footer";
+
+body {
+	padding-top: 70px;
+	// overflow-x: hidden;
+	
+	font-family:$headers !important;
+	font-weight: italic;
+}
+
+#wrapper {
+	max-width: 1200px;
+	margin: 0px auto;
+	// border: 1px solid red;
+}
