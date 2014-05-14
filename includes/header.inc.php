@@ -42,9 +42,10 @@
 
 
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="#christine">Christine</a></li>
-					<li><a href="#david">David</a></li>
-					<li><a href="#jino">Jino</a></li>
+					<li><a href="#christine" id="christineLink">Christine</a></li>
+					<li><a href="#david" id="davidLink">David</a></li>
+					<li><a href="#jino" id="jinoLink">Jino</a></li>
+					<li><a href="#contact" id="contactLink">Contact</a></li>
 				</ul>
 			</div><!-- /.navbar-collapse -->
 		</div><!-- /.container-fluid -->

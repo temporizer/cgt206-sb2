@@ -55,12 +55,46 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 body {
-  padding-top: 70px;
   font-family: "IM Fell DW Pica", serif !important;
-  font-weight: italic;
+}
+
+.buffer {
+  height: 70px;
 }
 
 #wrapper {
   max-width: 1200px;
   margin: 0px auto;
+}
+
+.navbar-brand {
+  font-size: 2em !important;
+}
+
+.navbar-nav {
+  font-size: 1.5em !important;
+}
+
+.panel-body {
+  height: 75px;
+  text-align: center;
+  font-size: 1.2em;
+  border: none;
+  background-color: rgba(0, 255, 255, 0.2);
+}
+
+.thumbnail, .panel-body {
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.2), 0px -3px 8px rgba(0, 0, 0, 0.2);
+}
+
+.fa {
+  font-size: 1.4em;
+}
+
+footer {
+  margin-top: 100px;
+  height: 200px;
+}
+footer a {
+  color: #00c8c8;
 }
