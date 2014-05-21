@@ -6,17 +6,17 @@
 </section>
 <div class="row">
   <div class="col-sm-4">
-    <a href="images/hawaii.jpg" data-lightbox="christine" data-title="Beauty is a perfect moment."class="thumbnail cimg1">
+    <a href="images/hawaii.jpg" data-lightbox="christine" class="thumbnail cimg1">
       <img data-src="images/hawaii.jpg" src="images/hawaii.jpg" alt="...">
     </a>
   </div>
   <div class="col-sm-4">
-    <a href="images/manifest.jpg" data-lightbox="christine" data-title="It is balance, light and dark, spirit, elegance." class="thumbnail cimg2">
+    <a href="images/manifest.jpg" data-lightbox="christine" class="thumbnail cimg2">
       <img data-src="images/manifest.jpg" src="images/manifest.jpg" alt="...">
     </a>
   </div>
   <div class="col-sm-4">
-    <a href="images/netarts_bay.jpg" data-lightbox="christine" data-title="This moment was simple, quiet, elegant, perfect, and beautiful." class="thumbnail cimg3">
+    <a href="images/netarts_bay.jpg" data-lightbox="christine" class="thumbnail cimg3">
       <img data-src="images/netarts_bay.jpg" src="images/netarts_bay.jpg" alt="...">
     </a>
   </div>
