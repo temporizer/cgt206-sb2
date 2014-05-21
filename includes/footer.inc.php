@@ -4,7 +4,7 @@
 	</section> <!-- end wrapper -->
 		<footer id="footer" class="contact">
 			<section class="row">
-				<div class="col-md-4 text-right">
+				<div class="col-md-4 text-center">
 					<h3>Christine</h3>
 					<ul>
 						<li><a href="http://www.facebook.com/christine.watson2014"><i class="fa fa-facebook"></i>/christine.watson2014</a></li>
@@ -21,7 +21,7 @@
 						<li><a href="mailto:d.larson3@students.clark.edu">d.larson3@students.clark.edu</a></li>
 					</ul>
 				</div>
-				<div class="col-md-4 text-left">
+				<div class="col-md-4 text-center">
 					<h3>Jino</h3>
 					<ul>
 						<li><a href="http://www.facebook.com/temporizer"><i class="fa fa-facebook"></i>/temporizer</a></li>
@@ -37,6 +37,7 @@
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	<script src="js/lightbox.min.js"></script>
 	<script src="js/smoothscroll.min.js"></script>
 	<script src="js/script.js"></script>
 </body>

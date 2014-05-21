@@ -11,6 +11,7 @@
 	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 	<link href='http://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
+	<link href="css/lightbox.css" rel="stylesheet" />
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
 
 </head>
@@ -34,7 +35,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-			<a class="navbar-brand" href="#">Beauty</a>
+			<a class="navbar-brand" href="">Beauty</a>
 			</div>
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -53,8 +54,9 @@
 
 		</header> <!-- end header -->
 
-		<section id="sidebar">
-
+		<section id="banner">
+			<img src="images/banner2.jpg" alt="">
 		</section> <!-- end sidebar -->
 
 		<section id="content">
+		<!-- fitvidsjs.com -->
